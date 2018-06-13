@@ -42,6 +42,14 @@ def find_a(array)
 end
 
 
+def sum_array(array)
+  array.find_all do {|x|}
+    x = {x + x}
+  end
+  
+end
+
+
 
 
 
