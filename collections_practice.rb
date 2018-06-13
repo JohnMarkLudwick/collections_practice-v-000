@@ -22,6 +22,27 @@ def swap_elements
 end
 
 
+def reverse_array(array)
+  array.sort do | left, right|
+    right <=> left
+  
+end
+
+
+
+def kesha_maker
+  
+  
+  
+end
+
+
+
+
+
+
+
+
 
 
 
