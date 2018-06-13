@@ -1,7 +1,7 @@
 
 def sort_array_asc
   array.sort
-  a <=> b
+  b <=> a
 end
   
 
